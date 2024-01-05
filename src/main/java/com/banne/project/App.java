@@ -16,7 +16,7 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("master test!");
         System.out.println("hot-fix test!!!");
-        System.out.println("Github push test !!! ");
+        System.out.println("Github push  !!! ");
         System.out.println("Github pull test !!! ");
     }
 }
